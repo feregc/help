@@ -1,0 +1,186 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PalicScaner
+</name>
+</assembly>
+<members>
+<member name="M:Palic_Scaner.frmPrincipalPalic.Form1_Load(System.Object,System.EventArgs)">
+	<summary>
+ Carga del fromulario principal y los valores de los campos originales
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.EnvioMail(System.Int32@)">
+	<summary>
+ Funcion de envio de correos despues de cada cierre
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.tiempolog_Tick(System.Object,System.EventArgs)">
+	<summary>
+ Funcion de nombramiento del Log.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.Button1_Click(System.Object,System.EventArgs)">
+	<summary>
+ Botton para entrar a configuracion
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.Button2_Click(System.Object,System.EventArgs)">
+	<summary>
+ Botton de apertura del log.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.NotifyIcon1_Click(System.Object,System.EventArgs)">
+	<summary>
+ Botton del tray de windows.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.Chequeo_Tiempo">
+	<summary>
+ Filtro a traves de fechas para los archivos cargados
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.Chequeo_Cola">
+	<summary>
+ Rebisamos que existan archivos correctos en la cola.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.proceso(System.String,System.String)">
+	<summary>
+ Proceso por el cual subimos archivos al As400 los borramos, sacamos copias y traemos la respuesta.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.EnviarFTPAS400(System.String,System.String)">
+	<summary>
+ Envia por FTP al AS400
+ </summary>
+	<param name="_Local">The _ local.</param>
+	<param name="_Remoto">The _ remoto.</param>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.BajarFTPAS400(System.String,System.String)">
+	<summary>
+ Bajar Archivo FTP
+ </summary>
+	<param name="_Remoto">The _ remoto.</param>
+	<param name="_Local">The _ local.</param>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.EjecutarCargaArchivoAS400(System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+ Ejecuta la carga archivo A S400.
+ </summary>
+	<param name="p1">The p1.</param>
+	<param name="p2">The p2.</param>
+	<param name="p3">The p3.</param>
+	<param name="p4">The p4.</param>
+	<param name="p5">The p5.</param>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.BackupArchivo(System.String,System.String)">
+	<summary>
+ Backups el archivo.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.EjecutaAplicacionAS400">
+	<summary>
+ ********IMPORTANTE******* Ejecuta la Aplicación de los datos en el AS400 sobre las tablas temporales
+ </summary>
+	<returns></returns>
+</member><member name="T:Palic_Scaner.frmPrincipalPalic.ListaArchivos">
+	<summary>
+ Clase que permite manejar Lista de Archivos.
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.BajarSFTPPalic(System.String,System.String)">
+	<summary>
+ Bajar Archivo SFTP desde el servidor de aplicacion
+ </summary>
+	<param name="_Remoto">The _ remoto.</param>
+	<param name="_Local">The _ local.</param>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.SubirSFTPPalic(System.String,System.String)">
+	<summary>
+ Subir Archivo SFTP hasta el servidor de aplicacion
+ </summary>
+	<param name="_Remoto">The _ remoto.</param>
+	<param name="_Local">The _ local.</param>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.PalicLog(System.String)">
+	<summary>
+ Revisar la existencia en el log de archivos
+ </summary>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.PalicLogAdd(System.String)">
+	<summary>
+ Agrega a la bitacora de archivos nuevos
+ </summary>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.Preparar(System.String)">
+	<summary>
+ Prepara los documentos despues de mandarlos a traer y los coloca en ciclo, ademas borra de entrada
+ </summary>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.PrepararSalidaTemp(System.String)">
+	<summary>
+ Prepara los documentos temporales de cada ciclo
+ </summary>
+	<returns></returns>
+</member><member name="M:Palic_Scaner.frmPrincipalPalic.PrepararSalida(System.String)">
+	<summary>
+ Prepara los documentos de salida
+ </summary>
+	<returns></returns>
+</member><member name="T:Palic_Scaner.PalicDataSet.paliclogDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSet.paliclogRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSet.paliclogRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSetTableAdapters.paliclogTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Palic_Scaner.PalicDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Palic_Scaner.PalicDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Palic_Scaner.PalicDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.UpdateAll(Palic_Scaner.PalicDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Palic_Scaner.PalicDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Palic_Scaner.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Palic_Scaner.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Palic_Scaner.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

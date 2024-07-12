@@ -1,0 +1,105 @@
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.exe.config
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.exe.manifest
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.application
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.exe
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.pdb
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.xml
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.vbprojResolveAssemblyReference.cache
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.frmPrincipalASG.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.frmConf.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.Logs.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.Resources.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.vbproj.GenerateResource.Cache
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.TrustInfo.xml
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.exe.manifest
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.application
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.exe
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.xml
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.pdb
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.exe.config
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.exe.manifest
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.application
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.exe
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.pdb
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\bin\Debug\Cargador_ASG.xml
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.vbprojAssemblyReference.cache
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.frmPrincipalASG.resources
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.frmConf.resources
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.Logs.resources
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.Resources.resources
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.vbproj.GenerateResource.cache
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.vbproj.CoreCompileInputs.cache
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.TrustInfo.xml
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.exe.manifest
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.application
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.vbproj.CopyComplete
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.exe
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.xml
+D:\Mis Documentos\Banco Occidente\Cargadores\Cargador - ASG\Cargador - ASG\Palic Scaner\obj\Debug\Cargador_ASG.pdb
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbprojAssemblyReference.cache
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.frmPrincipalASG.resources
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.frmConf.resources
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.Logs.resources
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.Resources.resources
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.GenerateResource.cache
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.exe
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.xml
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.pdb
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.exe.config
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.exe.manifest
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.application
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.exe
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.pdb
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.xml
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\adodb.dll
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.CoreCompileInputs.cache
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.TrustInfo.xml
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.exe.manifest
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.application
+D:\Team Fundation Bancocci\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.CopyComplete
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbprojAssemblyReference.cache
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.frmPrincipalASG.resources
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.frmConf.resources
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.Logs.resources
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.Resources.resources
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.GenerateResource.cache
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.CoreCompileInputs.cache
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.TrustInfo.xml
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.exe
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.xml
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.pdb
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.exe.config
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.exe.manifest
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.application
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.exe
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.pdb
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Cargador_ASG.xml
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\adodb.dll
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.exe.manifest
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.application
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.CopyComplete
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Renci.SshNet.dll
+D:\Repositorio Team Fundation\Cobranzas\Cargadores Ftp\Cargador - ASG\Master\Cargador - ASG\bin\Debug\Renci.SshNet.xml
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Cargador_ASG.exe.config
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Cargador_ASG.exe.manifest
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Cargador_ASG.application
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Cargador_ASG.exe
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Cargador_ASG.pdb
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Cargador_ASG.xml
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\adodb.dll
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Renci.SshNet.dll
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\bin\Debug\Renci.SshNet.xml
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.vbprojAssemblyReference.cache
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.frmPrincipalASG.resources
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.frmConf.resources
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.Logs.resources
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.Resources.resources
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.GenerateResource.cache
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.CoreCompileInputs.cache
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.TrustInfo.xml
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.exe.manifest
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.application
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.vbproj.CopyComplete
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.exe
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.xml
+C:\Users\fegarcia\Documents\Programas\Cargador - ASG\obj\Debug\Cargador_ASG.pdb

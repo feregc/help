@@ -1,0 +1,48 @@
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.exe.config
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.exe.manifest
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.application
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.exe
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.pdb
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.Ftp.dll
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.ProxySocket.dll
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.SecureSocket.dll
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.Sftp.dll
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Security.dll
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.Ssh.dll
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.Sftp.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Security.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.ProxySocket.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.Ssh.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.SecureSocket.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Rebex.Net.Ftp.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.frmPrincipalPalic.resources
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.frmConf.resources
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.Logs.resources
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.Resources.resources
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.vbproj.GenerateResource.Cache
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.TrustInfo.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.exe.manifest
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.application
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.exe
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.xml
+C:\Users\LMRODRIGUEZZ.BOCCIDENTE\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.pdb
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.exe.config
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.exe.manifest
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.application
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.exe
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.pdb
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\bin\Release\Palic Scaner.xml
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\ResolveAssemblyReference.cache
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.frmPrincipalPalic.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.frmConf.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.Logs.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic_Scaner.Resources.resources
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.vbproj.GenerateResource.Cache
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.TrustInfo.xml
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.exe.manifest
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.application
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.exe
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.xml
+C:\Users\lmrodriguezz\Documents\Banco Occidente\Demonios\Daemon - Palic Facturacion\Palic Scaner\Palic Scaner\Palic Scaner\obj\Release\Palic Scaner.pdb

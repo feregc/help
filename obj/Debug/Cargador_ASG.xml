@@ -1,0 +1,204 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Cargador_ASG
+</name>
+</assembly>
+<members>
+<member name="T:Cargador_ASG.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources._3floppy_unmount">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.advancedsettings">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.agt_utilities">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.autostart1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.desktop_enhancements">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.download">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.graphic_design">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.kfloppy">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.lassists">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.shutdown">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Cargador_ASG.My.Resources.Resources.xmag">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.Form1_Load(System.Object,System.EventArgs)">
+ <summary>
+ Carga del fromulario principal y los valores de los campos originales
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.EnvioMail(System.Int32@)">
+ <summary>
+ Funcion de envio de correos despues de cada cierre
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.tiempolog_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Funcion de nombramiento del Log.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.Button1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Botton para entrar a configuracion
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.Button2_Click(System.Object,System.EventArgs)">
+ <summary>
+ Botton de apertura del log.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.NotifyIcon1_Click(System.Object,System.EventArgs)">
+ <summary>
+ Botton del tray de windows.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.Chequeo_Tiempo">
+ <summary>
+ Filtro a traves de fechas para los archivos cargados
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.Chequeo_Cola">
+ <summary>
+ Rebisamos que existan archivos correctos en la cola.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.proceso(System.String,System.String)">
+ <summary>
+ Proceso por el cual subimos archivos al As400 los borramos, sacamos copias y traemos la respuesta.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.EnviarFTPAS400(System.String,System.String)">
+ <summary>
+ Envia por FTP al AS400
+ </summary>
+ <param name="_Local">The _ local.</param>
+ <param name="_Remoto">The _ remoto.</param>
+ 
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.BajarFTPAS400(System.String,System.String)">
+ <summary>
+ Bajar Archivo FTP
+ </summary>
+ <param name="_Remoto">The _ remoto.</param>
+ <param name="_Local">The _ local.</param>
+ <returns></returns>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.EjecutarCargaArchivoAS400(System.String,System.String,System.String,System.String,System.String)">
+ <summary>
+ Ejecuta la carga archivo A S400.
+ </summary>
+ <param name="p1">The p1.</param>
+ <param name="p2">The p2.</param>
+ <param name="p3">The p3.</param>
+ <param name="p4">The p4.</param>
+ <param name="p5">The p5.</param>
+ <returns></returns>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.BackupArchivo(System.String,System.String)">
+ <summary>
+ Backups el archivo.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.EjecutaAplicacionAS400">
+ <summary>
+ ********IMPORTANTE******* Ejecuta la Aplicación de los datos en el AS400 sobre las tablas temporales
+ </summary>
+ <returns></returns>
+</member>
+<member name="T:Cargador_ASG.frmPrincipalASG.ListaArchivos">
+ <summary>
+ Clase que permite manejar Lista de Archivos.
+ </summary>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.BajarSFTPASG(System.String,System.String)">
+ <summary>
+ Bajar Archivo SFTP desde el servidor de aplicacion
+ </summary>
+ <param name="_Remoto">The _ remoto.</param>
+ <param name="_Local">The _ local.</param>
+ <returns></returns>
+ 
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.SubirSFTPASG(System.String,System.String)">
+ <summary>
+ Subir Archivo SFTP hasta el servidor de aplicacion
+ </summary>
+ <param name="_Remoto">The _ remoto.</param>
+ <param name="_Local">The _ local.</param>
+ <returns></returns>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.Preparar(System.String)">
+ <summary>
+ Prepara los documentos despues de mandarlos a traer y los coloca en ciclo, ademas borra de entrada
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.PrepararSalidaTemp(System.String)">
+ <summary>
+ Prepara los documentos temporales de cada ciclo
+ </summary>
+ <returns></returns>
+</member>
+<member name="M:Cargador_ASG.frmPrincipalASG.PrepararSalida(System.String)">
+ <summary>
+ Prepara los documentos de salida
+ </summary>
+ <returns></returns>
+</member>
+</members>
+</doc>
